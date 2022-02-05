@@ -51,7 +51,7 @@ console.log(typeof isOkay)
 ```js
 let variable1
 let variable2
-let varitable3
+let variable3
 let variable4
 ```
 
